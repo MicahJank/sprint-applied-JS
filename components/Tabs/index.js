@@ -26,9 +26,6 @@ topics
         console.log('ERROR: ', err);
       });
 
-console.log(topics);
-
-
 const createTab = (tabName) => {
     const tabDiv = document.createElement('div');
     tabDiv.classList.add('tab');
