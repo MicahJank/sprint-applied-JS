@@ -111,7 +111,6 @@ rightButton.addEventListener('click', event => {
     carouselImg2.classList.remove('img-active');
     carouselImg3.classList.remove('img-active');
   }
-  console.log(currentIndex);
 });
 
 leftButton.addEventListener('click', event => {
@@ -144,7 +143,5 @@ leftButton.addEventListener('click', event => {
     carouselImg2.classList.remove('img-active');
     carouselImg3.classList.remove('img-active');
   }
-
-  console.log(currentIndex);
 });
 
