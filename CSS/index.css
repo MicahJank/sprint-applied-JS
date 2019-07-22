@@ -299,6 +299,9 @@ body {
   right: 25px;
   transform: translate(0, -50%);
 }
+.carousel .img-active {
+  display: block;
+}
 .carousel img {
   width: 100%;
   display: none;
